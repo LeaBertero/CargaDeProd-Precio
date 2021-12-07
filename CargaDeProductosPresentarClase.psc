@@ -1,6 +1,6 @@
 Proceso Stock_Prod_Marc
 	
-	//CARGA DE PRODUCTOS CON SUS PRECIOS 
+	//CARGA DE PRODUCTOS CON SUS PRECIOS
 	
 	Escribir "Bienvenido al programa de CARGA DE PRODUCTOS";
 	Escribir "Para comenzar PRESIONE UNA TECLA";
@@ -13,7 +13,7 @@ Proceso Stock_Prod_Marc
 	
 	Borrar pantalla;
 	
-	Escribir "Es esta sección puede cargar sus productos... ESPERE !";
+	Escribir "Es esta secciÃ³n puede cargar sus productos... ESPERE !";
 	
 	Esperar 3 segundos;
 	
@@ -62,7 +62,7 @@ Proceso Stock_Prod_Marc
 	Escribir "ingese el precio de prod 1";
 	Leer Precio1;
 	
-	Precio2 <- 10;
+	Precio2 <-0;
 	Escribir "ingrese el precio de prod 2";
 	Leer Precio2;
 	
